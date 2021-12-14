@@ -1,0 +1,27 @@
+[submodule "cpp-module-00"]
+	path = cpp-module-00
+	url = git@github.com:dalexhd/cpp-module-00.git
+[submodule "cpp-module-01"]
+	path = cpp-module-01
+	url = git@github.com:dalexhd/cpp-module-01.git
+[submodule "cpp-module-02"]
+	path = cpp-module-02
+	url = git@github.com:dalexhd/cpp-module-02.git
+[submodule "cpp-module-03"]
+	path = cpp-module-03
+	url = git@github.com:dalexhd/cpp-module-03.git
+[submodule "cpp-module-04"]
+	path = cpp-module-04
+	url = git@github.com:dalexhd/cpp-module-04.git
+[submodule "cpp-module-05"]
+	path = cpp-module-05
+	url = git@github.com:dalexhd/cpp-module-05.git
+[submodule "cpp-module-06"]
+	path = cpp-module-06
+	url = git@github.com:dalexhd/cpp-module-06.git
+[submodule "cpp-module-07"]
+	path = cpp-module-07
+	url = git@github.com:dalexhd/cpp-module-07.git
+[submodule "cpp-module-08"]
+	path = cpp-module-08
+	url = git@github.com:dalexhd/cpp-module-08.git
