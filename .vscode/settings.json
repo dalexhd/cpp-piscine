@@ -1,0 +1,19 @@
+{
+    "42header.email": "aborboll@student.42.fr",
+    "42header.username": "aborboll",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "editor.renderWhitespace": "all",
+    "workbench.editor.showTabs": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "cryptoticker.cryptoCurrency": "EUR",
+    "cryptoticker.cryptoExchange": "Binance",
+    "pdf-preview.default.scale": "page-width",
+    "cryptoticker.cryptoSymbols": [
+        "BTC",
+        "ETH",
+        "ADA"
+    ]
+}
